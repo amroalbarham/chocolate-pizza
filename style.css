@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    padding: 10px;
+}
+header h1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: xx-large;
+    position: relative;
+    left: 50px;
+    bottom: 82px;
+}
+header h6{
+    position: relative;
+    left: 50px;
+    bottom: 110px;
+    font-size:11px;
+}
+#logo{
+    position: relative;
+    left: 35%;
+    bottom: 163px;
+}
+#slach{
+position: relative;
+bottom: 201px;
+}
+main h5{
+    position: relative;
+    bottom: 248px;
+    float: right;
+    right: 988px;
+}
+#print{
+    position: relative;
+    float:right;
+    top: 35px;
+    right:1032px;
+}
+#choco{
+    position: relative;
+    bottom: 208px;
+}
+#para{
+    text-indent: 50px;
+    position: relative;
+    bottom: 235px;
+}
+#paper{
+    position: relative;
+    bottom: 243px;
+}
+.leftcheck{
+    position: relative;
+    bottom: 511px;
+    right: -40px;
+    background-color: transparent;
+    margin: -4px;
+}
+.rightcheck{
+    position: relative;
+    left: 411px;
+    bottom: 736px;
+    background-color: transparent;
+}
+#slach2{
+    position: relative;
+    bottom: 668px;
+}
+#girl{
+    position: relative;
+    bottom: 668px;
+}
+h6{
+    color: rgba(148, 143, 143, 0.698);
+    font-size: 9px;
+    position: relative;
+    bottom: 227px;
+}
+h1 {
+    position: relative;
+    font-family: 'Anton', sans-serif;
+    bottom: 200px;
+    font-weight: 300;
+}
+h5{
+    color: rgba(119, 110, 110, 0.794);
+}
+h3{
+    position: relative;
+    bottom: 769px;
+    left: 87px;
+}
+#textp{
+    position: relative;
+    bottom: 791px;
+    left: 87px;
+    color: rgba(119, 110, 110, 0.794);
+}
+#button{
+    position: relative;
+    float: right;
+    bottom: 882px;
+    right: 968px;
+    background-color: rgb(184, 109, 90);
+    border: rgba(119, 110, 110, 0.794);
+    color: white;
+    margin: 16px;
+    width: 134px;
+    height: 40px;
+}
+
+#foot{
+    position: relative;
+    right: -351px;
+}
+footer h5{
+    clear: both;
+    position: relative;
+    right: -269px;
+}
+
